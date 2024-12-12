@@ -3,8 +3,8 @@ Implementing different MRI Recon methods for Parallel MRI imaging, class project
 
 ### GRAPPA
 grappa.py
-Original implementation: https://github.com/KrakenLeaf/PyParMRI/blob/master/recon/grappa.py 
-([paper]([https://ieeexplore.ieee.org/abstract/document/4472246](https://pubmed.ncbi.nlm.nih.gov/12111967/)))).
+Original implementation: https://github.com/KrakenLeaf/PyParMRI/blob/master/recon/grappa.py  
+([paper]( (https://ieeexplore.ieee.org/abstract/document/4472246](https://pubmed.ncbi.nlm.nih.gov/12111967/)))).
 
 
 ### PICS with ESPIRIT calibration maaps
