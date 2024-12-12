@@ -1,5 +1,5 @@
 # ParallelMRI-Recon
-Implementing different MRI Recon methods for Parallel MRI imaging, class project    
+Implementing different MRI Recon methods for Parallel MRI imaging reconstruction, class project    
 
 ### GRAPPA
 grappa.py
