@@ -1,5 +1,6 @@
 # ParallelMRI-Recon
 Implementing different MRI Recon methods for Parallel MRI imaging reconstruction, class project    
+Testing data: [fastMRI](https://fastmri.med.nyu.edu/) dataset
 
 ### GRAPPA
 grappa.py
