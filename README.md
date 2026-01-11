@@ -1,5 +1,5 @@
 # ParallelMRI-Recon
-Implementing different MRI Recon methods for Parallel MRI imaging reconstruction, class project    
+Implementing different MRI Recon methods for Parallel MRI imaging reconstruction
 Testing data: [fastMRI](https://fastmri.med.nyu.edu/) dataset
 
 ### GRAPPA
